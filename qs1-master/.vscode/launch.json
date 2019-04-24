@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - emp1",
+            "request": "launch",
+            "mainClass": "com.kgisl.qs1.emp1",
+            "projectName": "qs1"
+        }
+    ]
+}
